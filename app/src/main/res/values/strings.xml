@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Dog Breeds</string>
+    <string name="dog_name_1">Golden Retriever</string>
+    <string name="dog_name_2">Labrador</string>
+    <string name="dog_name_3">German Shepherd</string>
+    <string name="dog_name_4">Poodle</string>
+    <string name="dog_name_5">Bulldog</string>
+    <string name="dog_name_6">Beagle</string>
+    <string name="dog_name_7">Daschund</string>
+    <string name="dog_name_8">Chihuahua</string>
+    <string name="dog_name_9">Pug</string>
+    <string name="dog_description_1">The Golden Retriever is a Scottish breed of retriever dog of medium size.</string>
+    <string name="dog_description_2">The Labrador Retriever or simply Labrador is a British breed of retriever gun dog.</string>
+    <string name="dog_description_3">The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size.</string>
+    <string name="dog_description_4">The Poodle, called the Pudel in German and the Caniche in French, is a breed of water dog.</string>
+    <string name="dog_description_5">The Bulldog is a British breed of dog of mastiff type. It may also be known as the English Bulldog or British Bulldog.</string>
+    <string name="dog_description_6">The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound.</string>
+    <string name="dog_description_7">The dachshund, also known as the wiener dog or sausage dog, badger dog and doxie, is a short-legged, long-bodied, hound-type dog breed.</string>
+    <string name="dog_description_8">The Chihuahua is a Mexican breed of toy dog.</string>
+    <string name="dog_description_9">The Pug is a breed of dog with the physically distinctive features of a wrinkly, short-muzzled face, and curled tail.</string>
+    <string name="about">Description:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a heroes.</string>
+</resources>
