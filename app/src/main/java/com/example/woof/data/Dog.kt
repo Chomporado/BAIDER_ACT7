@@ -1,5 +1,5 @@
 package com.example.woof.data
-
+//
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 import com.example.woof.R
